@@ -1,0 +1,16 @@
+Base de Datos de Tienda de Música en Línea
+Este proyecto consiste en el diseño de una base de datos para una tienda de música en línea. La tienda tiene como objetivo almacenar información detallada sobre artistas, álbumes, canciones y compras realizadas por los usuarios.
+
+Descripción del Ejercicio
+La tienda de música en línea necesita gestionar y almacenar datos relacionados con distintos aspectos de la industria musical. Los principales requisitos de la base de datos son los siguientes:
+
+Entidades Principales:
+Artistas: Cada artista tiene un nombre, género musical y nacionalidad.
+Álbumes: Cada álbum tiene un título, año de lanzamiento y está asociado a un artista.
+Canciones: Cada canción tiene un título, duración, está asociada a un álbum y tiene un número de pista.
+Usuarios: Se registran los usuarios de la tienda con detalles como nombre, correo electrónico y dirección.
+Compras: Registra las compras realizadas por los usuarios, incluyendo las canciones adquiridas, el usuario que hizo la compra, la fecha de compra y el precio total.
+Estructura Propuesta de la Base de Datos
+El diseño propuesto para la base de datos incluye tablas separadas para cada entidad principal, con campos específicos que permiten almacenar y gestionar la información relacionada con artistas, álbumes, canciones, usuarios y compras.
+
+Se adjunta un modelo básico de la base de datos en formato SQL que refleja la estructura y las relaciones entre las diferentes entidades.
